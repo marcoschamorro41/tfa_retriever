@@ -1,0 +1,19 @@
+.idea
+*.iml
+*/target
+target/
+*/test-output
+test-output/
+.metadata/
+.settings/
+*.classpath
+*.project
+velocity.log
+
+########Developer test classes go here################
+cisionpoint-qa/src/test/java/com/cision/cisionpoint/tests/FernandoTests.java
+cisionpoint-qa/src/test/java/com/cision/cisionpoint/tests/MarceloTests.java
+src/test/java/com/cision/cisionpoint/tests/AdamTests.java
+cisionpoint-qa/src/test/java/com/cision/cisionpoint/tests/RuiTests.java
+cisionpoint-qa/src/test/java/com/cision/cisionpoint/tests/AntonioTests.java
+######################################################
